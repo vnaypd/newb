@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/newb/static/css/main.3a38b14a.chunk.css",
+    "main.js": "/newb/static/js/main.13653555.chunk.js",
+    "main.js.map": "/newb/static/js/main.13653555.chunk.js.map",
+    "runtime-main.js": "/newb/static/js/runtime-main.995bf5ed.js",
+    "runtime-main.js.map": "/newb/static/js/runtime-main.995bf5ed.js.map",
+    "static/js/2.63f0095f.chunk.js": "/newb/static/js/2.63f0095f.chunk.js",
+    "static/js/2.63f0095f.chunk.js.map": "/newb/static/js/2.63f0095f.chunk.js.map",
+    "static/css/3.13d9c9f5.chunk.css": "/newb/static/css/3.13d9c9f5.chunk.css",
+    "static/js/3.c7001df9.chunk.js": "/newb/static/js/3.c7001df9.chunk.js",
+    "static/js/3.c7001df9.chunk.js.map": "/newb/static/js/3.c7001df9.chunk.js.map",
+    "static/css/4.ee65cb7d.chunk.css": "/newb/static/css/4.ee65cb7d.chunk.css",
+    "static/js/4.92ab96de.chunk.js": "/newb/static/js/4.92ab96de.chunk.js",
+    "static/js/4.92ab96de.chunk.js.map": "/newb/static/js/4.92ab96de.chunk.js.map",
+    "index.html": "/newb/index.html",
+    "static/css/3.13d9c9f5.chunk.css.map": "/newb/static/css/3.13d9c9f5.chunk.css.map",
+    "static/css/4.ee65cb7d.chunk.css.map": "/newb/static/css/4.ee65cb7d.chunk.css.map",
+    "static/css/main.3a38b14a.chunk.css.map": "/newb/static/css/main.3a38b14a.chunk.css.map",
+    "static/js/2.63f0095f.chunk.js.LICENSE.txt": "/newb/static/js/2.63f0095f.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/newb/static/media/1.3829ce0e.jpg",
+    "static/media/index.css": "/newb/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/contactMailDark.svg": "/newb/static/media/contactMailDark.1db650d3.svg",
+    "static/media/cpLogo.png": "/newb/static/media/cpLogo.f4296945.png",
+    "static/media/developerActivity.svg": "/newb/static/media/developerActivity.2c0445ca.svg",
+    "static/media/hac.png": "/newb/static/media/hac.b32b3ced.png",
+    "static/media/manOnTable.svg": "/newb/static/media/manOnTable.8f117eb2.svg",
+    "static/media/nextuLogo.webp": "/newb/static/media/nextuLogo.e033dbfa.webp",
+    "static/media/skill.svg": "/newb/static/media/skill.35a14766.svg",
+    "static/media/TalkCard.css": "/newb/static/media/talksCardBack.73ed1545.svg",
+    "static/media/umy.png": "/newb/static/media/umy.639d0661.png",
+    "static/media/vodafoneLogo.png": "/newb/static/media/vodafoneLogo.85892bb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995bf5ed.js",
+    "static/js/2.63f0095f.chunk.js",
+    "static/css/main.3a38b14a.chunk.css",
+    "static/js/main.13653555.chunk.js"
+  ]
+}
